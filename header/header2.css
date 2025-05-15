@@ -1,0 +1,53 @@
+.header2 {
+    padding: 2rem;
+    margin: left;
+    width: 1440px;
+    height: 90px;
+    position: absolute;
+    top: 42px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+
+.menu,
+.logo,
+.user,
+.buy,
+.buscador {
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.title {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.busca {
+    margin-top: 1rem;
+    margin: 1cap;
+    width: 507px;
+    border: none;
+    height: 48px;
+    border-radius: 8px;
+    text-align: center;
+    top: 63px;
+    background-color: #f3f9f8;
+    align-items: center; 
+}
+
+
+.buscador {
+    gap: 8px;
+    font-size: 14px;
+}
+
+.buy,
+.user {
+    width: 20px;
+    height: 20px;
+}

@@ -1,0 +1,46 @@
+.header3 {
+    padding: 12rem;
+    width: 1440px;
+    height: 69px;
+    top: 131px;
+    margin-right: 50px;
+}
+
+.botones {
+    border-radius: 8px;
+    border-radius: 3px;
+    margin-left: auto;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.botones button {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #F3F9FB;
+    border: none;
+
+    border-radius: 20px;
+    font-size: 14px;
+    font-family: monospace;
+    color: #000;
+}
+
+.header3 nav button {
+    margin-right: 10px;
+    background-color: #F3F9FB;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+
+.boton img {
+    width: 12px;
+    height: 12px;
+}
+

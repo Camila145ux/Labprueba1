@@ -1,0 +1,16 @@
+.seccion1  {
+    padding: 15rem;
+}
+.linea {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+.Smartphones {
+    flex-direction: row;
+    display: flex;
+    top: 656px;
+    margin-left: 120px;
+}
+
