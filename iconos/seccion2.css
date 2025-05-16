@@ -1,0 +1,32 @@
+.seccion2 {
+    padding: 15rem;
+    width: 100%
+
+}
+
+.linea1 {
+    display: flex;
+    justify-content:flex-start         
+  }
+
+  .Linea2 {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+    gap: 3rem
+  }
+
+  .azul img,
+  .gris img {
+    display: block;            /* Evita espacio debajo de imagen */
+    height: 3px;               /* Puedes ajustar a tu gusto */
+  }
+  
+  .azul img {
+    width: 80px;               /* Línea azul corta */
+  }
+  
+  .gris img {
+    width: 100%;               /* Ocupa todo el espacio restante */
+    opacity: 0.3;              /* Si quieres que se vea más tenue */
+  }
