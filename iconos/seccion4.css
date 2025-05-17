@@ -1,0 +1,31 @@
+.seccion2 {
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 20 rem;
+}
+
+.linea1111 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .Sub4 {
+    height: 30px;
+    width: 281px;
+  }
+
+  .view4 {
+    width: 82px;
+    height: 18px;
+    margin-right: -1rem;
+    cursor: pointer;
+  }
+
+  .lineas2222 {
+    display: flex;
+  }
+
+  .azul4 {
+    width: -80000px;
+}

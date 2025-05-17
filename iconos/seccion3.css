@@ -30,4 +30,102 @@
     width: -80000px;
 }
 
+/* puntos */
+.puntos3 {
+  display: flex;
+  align-items: center;
+}
 
+/* OFERTAS */
+.ofertas {
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    padding: 3rem;
+}
+
+/* Iphone */
+.cuadro1 {
+    width: 389px;
+    height: 207px;
+    top: 1621px;
+    border-radius: 2rem;
+    justify-content: space-between;
+    display: flex;
+    padding: 1rem;
+    background-color: #414141;
+}
+
+.celiphones {
+  width: 104px;
+  height: 185px;
+}
+
+.info1 {
+  margin: 1rem;
+}
+.iphone,
+.apple,
+.oferta1 {
+  padding: 1rem;
+}
+/* Realme */
+.cuadro2 {
+  width: 389px;
+    height: 207px;
+    top: 1621px;
+    border-radius: 2rem;
+    justify-content: space-between;
+    display: flex;
+    padding: 1rem;
+    background-color: #FFF3CC ;
+}
+
+.CelRealme {
+  width: 158px ;
+  height: 185px;
+  top: 1633px;
+}
+
+.info2 {
+  margin: 1rem;
+  gap: 2rem;
+}
+
+.realme1,
+.realme2,
+.realme3 {
+  padding: 2rem;
+}
+
+/* Xiamomi */
+.cuadro3 {
+  width: 389px;
+    height: 207px;
+    top: 1621px;
+    border-radius: 2rem;
+    justify-content: space-between;
+    display: flex;
+    background-color: #FFECDF;
+}
+
+.info3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 2rem;
+}
+
+.xiaomi {
+  width:152px ;
+  height: 183px;
+  margin: 1rem;
+  align-items: center;
+
+}
+
+.x1,
+.x2,
+.x3 {
+  padding: 1rem;
+}
