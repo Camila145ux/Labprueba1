@@ -1,6 +1,9 @@
 .seccion1 {
-    padding: 15rem;
-    width: 1440px;
+  width: 1440px;
+  margin-top: 10rem;
+  padding: 0 15 rem;
+
+    
   }
 
   .Subtitulo {
@@ -30,7 +33,7 @@
 
 
   .azul {
-    display: block;
+    margin-left: 3rem;
   }
 
   .gris {
@@ -43,31 +46,35 @@
 
   /*CELULARES  */
   .CatalogoCel {
-    gap: 2rem;
     align-items: center;
     padding: 1rem;
     display: flex;
     justify-content: space-between;
     align-items: center; 
     padding-top: 3rem;
-
-  }
-
-  .CatalogoCel {
-    justify-content: space-between;
-    display: flex;
-    gap: 1rem;
-  }
-
-  .Cel1,
-  .Cel2,
-  .Cel3,
-  .Cel4,
-  .Cel5 {
+    gap: 5.3rem;
     cursor: pointer;
+
+  }
+
+  .CatalogoCel img {
     width: 227px;
     height: 295px;
-    top: 742;
-    border-radius: 3px;
-  
+    top: 742px;
+    border-radius: 18px;
+    
   }
+
+  .Cel5 {
+    border-radius: 16px;
+    border: 1px;
+    cursor: pointer;
+  }
+
+  .Cel2 {
+    border-radius: 16px;
+    border: 3px;
+    cursor: pointer;
+  }
+
+

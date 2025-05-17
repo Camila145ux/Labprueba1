@@ -1,0 +1,33 @@
+.seccion3 {
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 15 rem;
+}
+
+.linea111 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .Sub3 {
+    height: 30px;
+    width: 281px;
+  }
+
+  .view3 {
+    width: 82px;
+    height: 18px;
+    margin-right: -1rem;
+    cursor: pointer;
+  }
+
+  .lineas222 {
+    display: flex;
+  }
+
+  .azul3 {
+    width: -80000px;
+}
+
+

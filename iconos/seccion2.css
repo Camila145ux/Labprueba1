@@ -1,32 +1,203 @@
 .seccion2 {
-    padding: 15rem;
-    width: 100%
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 15 rem;
 
 }
 
 .linea1 {
     display: flex;
-    justify-content:flex-start         
-  }
-
-  .Linea2 {
-    display: flex;
+    justify-content: space-between;
     align-items: center;
-    margin-top: 5px;
-    gap: 3rem
   }
 
-  .azul img,
-  .gris img {
-    display: block;            /* Evita espacio debajo de imagen */
-    height: 3px;               /* Puedes ajustar a tu gusto */
+  .Sub2 {
+    height: 30px;
+    width: 281px;
   }
-  
-  .azul img {
-    width: 80px;               /* Línea azul corta */
+
+  .view2 {
+    width: 82px;
+    height: 18px;
+    margin-right: -1rem;
+    cursor: pointer;
   }
-  
-  .gris img {
-    width: 100%;               /* Ocupa todo el espacio restante */
-    opacity: 0.3;              /* Si quieres que se vea más tenue */
+
+  .lineas2 {
+    display: flex;
   }
+
+  .azul2 {
+    width: -80000px;
+}
+
+
+/* ---------CATEGORIAS ------- */
+.categorias {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  padding: 3rem;
+}
+
+/* CELULAR */
+.category1 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.circulo {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo img {
+  width: 52px;
+  height: 98px;
+
+}
+
+/* Crema */
+.category2 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.circulo2 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo2 img {
+  width: 52px;
+  height: 98px;
+
+}
+
+/* Lavadora */
+.category3 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.lavadora {
+  padding: 1rem;
+}
+
+.nombre3 {
+  display: flex;
+  align-items: center;
+}
+
+/* sillon */
+.category4 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.sillon {
+  padding: 1rem;
+}
+
+.nombre4 {
+  display: flex;
+  align-items: center;
+}
+
+/* Reloj */
+.category5 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.circulo5 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo5 img {
+  width: 52px;
+  height: 98px;
+}
+
+.nombre5 {
+  display: flex;
+  align-items: center;
+}
+
+/*planta*/
+.category6 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.circulo6 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo6 img {
+  width: 52px;
+  height: 98px;
+}
+
+.nombre6 {
+  display: flex;
+  align-items: center;
+}
+
+/*Collar*/
+.category7 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.nombre7 {
+  display: flex;
+  align-items: center;
+}
+
+.collar {
+  padding: 1rem;
+}
