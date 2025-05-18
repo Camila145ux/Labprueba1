@@ -2,4 +2,82 @@
     width: 1440px;
     height: 592px;
     top: 2445px;
+    background-color: #008ECC;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.mega {
+    width: 15rem;
+    height: 3rem;
+    margin-left: 5rem;
+    font-size: 8rem;
+    margin-top: 3rem;
+    padding: 2rem;
+
+}
+
+.contacto {
+    margin-left: 8rem;
+    font-size: 2rem;
+    width: 15rem;
+    height: 1.5rem;
+    margin-top: 7rem;
+}
+
+.watt {
+    margin-left: 8rem;
+    margin-top: 30px;
+    margin-bottom: 60px;
+
+}
+
+.call {
+    margin-left: -20rem;
+    padding: 1rem;
+}
+
+.Download {
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+    margin-left: 8rem;
+    margin-top: 1rem;
+}
+
+.apps {
+    margin-top: 3rem;
+    margin-left: 8rem;
+}
+
+.list1 {
+    margin-top: -55rem;
+    margin-left: 5rem;
+    margin-bottom: -2px;
+}
+
+.list2 {
+    margin-bottom: 7rem;
+    margin-top: -65rem;
+    margin-left: 5rem;
+}
+
+.deco {
+    position: absolute;
+    margin-bottom: 3rem;
+    margin-left: 10.3rem;
+    margin-top: -35rem;
+}
+
+.lineF {
+    margin-left: 8.5rem;
+    margin-top: 5rem;
+}
+
+.derecho {
+    margin-top: 2rem;
+    width: 800px;
+    height: 20px;
+    font-size: 22px;
+    margin-left: 35rem;
 }

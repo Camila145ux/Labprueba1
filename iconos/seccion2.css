@@ -46,6 +46,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .circulo {
@@ -72,6 +73,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .circulo2 {
@@ -98,6 +100,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .lavadora {
@@ -115,6 +118,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .sillon {
@@ -132,6 +136,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .circulo5 {
@@ -162,6 +167,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 
 .circulo6 {
@@ -192,6 +198,7 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  cursor: pointer;
 }
 .nombre7 {
   display: flex;

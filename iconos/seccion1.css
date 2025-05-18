@@ -6,48 +6,40 @@
     
   }
 
-  .Subtitulo {
-    padding: 3rem;
-  }
-  
+ 
+
   .linea {
     display: flex;
     justify-content: space-between;
-    align-items: center;          
+    align-items: center;
   }
 
-  .Smartphones {
-    margin-left: 0rem;
+  .Sub1 {
+    height: 30px;
+    width: 281px;
   }
 
-  .view {
-    margin-left: 10rem;
+  .view1 {
+    width: 82px;
+    height: 18px;
+    margin-right: -1rem;
     cursor: pointer;
   }
-  
-  .linea2 {
+
+  .lineas1 {
     display: flex;
-    align-items: center;
-    margin-top: 5px;
   }
 
+  .azul1 {
+    width: -80000px;
+}
 
-  .azul {
-    margin-left: 3rem;
-  }
-
-  .gris {
-    display: block;
-    width: 1198px;
-    max-width: 1198px;
-    margin-right: 10rem;
-  }
 
 
   /*CELULARES  */
   .CatalogoCel {
     align-items: center;
-    padding: 1rem;
+    padding: 5rem;
     display: flex;
     justify-content: space-between;
     align-items: center; 
